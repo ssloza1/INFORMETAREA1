@@ -167,8 +167,7 @@ R: Induccion electromagnetica
  
 34. ¿A TRAVÉS DE QUE RESISTOR DE LA FIGURA 2-70 ¿SIEMPRE HAY CORRIENTE, SIN IMPORTAR LA POSICIÓN DE LOS INTERRUPTORES? 
 
-
-![image](https://user-images.githubusercontent.com/105320981/168796591-470df5f4-b625-40ab-ae5e-07086b02bc31.png)
+![image](https://user-images.githubusercontent.com/105320981/168856412-873c9ebe-6e2e-4071-a80f-09b3d9d390f6.png)
 
 R= Siempre va a haber corriente en R_5, 
 debido a que es la única resistencia que no depende de un interruptor
@@ -207,6 +206,9 @@ R= mi interruptor está marcando x10 y la manecilla (aguja) está en 30 la lectu
 
 
 R=Un multímetro de 4_2^1dígitos nos puede mostrar hasta 19,999 cuentas de resolución.
+## 4. VIDEO
+
+https://www.youtube.com/watch?v=YoeDTaDtxrY
 
 ## 5.CONCLUSIONES
 * La electronica como fuente fundamental esta presente en nuestro alrededor y esto nos lleva a tener que entenderla ya que se emplea la notacion cientifica para entender cuan intenso o peligroso resulta la corriente en un cuerpo.
