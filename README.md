@@ -7,12 +7,12 @@
 ## 1. OBJETIVO:
 #### 1.1 OBJETIVO GENERAL: 
 
-Analizar y conocer los diferentes concepto fundamentales de las cantidades y unidades, voltaje, corriente, resistencia para la implementación en la electrónica, mediante ejercicio de practica he información teórica
+Analizar y comprender los diferentes concepto fundamentales de las cantidades y unidades, voltaje, corriente, resistencia para la implementación en la electrónica, mediante ejercicio de practica he información teórica
 
 #### 1.2 OBJETIVO ESPECIFICOS:
 
-* Analizar y explicar los diferentes  tipos de unidades para su uso en la resolución de ejercicios relacionados con la electrónica, mediante ejercicios practicos 
-* Desarrollar y demostrar los resultados obtenidos al implementar las unidades de SI del Voltaje, corriente y resistencia para la resolucion de problemas mediante uso de la información teórica 
+* Teorizar y explicar los diferentes  tipos de unidades para su uso en la resolución de ejercicios relacionados con la electrónica, mediante ejercicios practicos. 
+* Implementar e informar los resultados obtenidos al obtener las unidades de SI del Voltaje, corriente y resistencia para la resolucion de problemas mediante uso de la información teórica.
 
 ## 2. MARCO TEORICO
 
